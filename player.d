@@ -1,0 +1,12 @@
+.\player.o: Player\Player.c
+.\player.o: D:\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\lpc17xx.h
+.\player.o: D:\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h
+.\player.o: D:\Keil_v5\ARM\ARMCLANG5\Bin\..\include\stdint.h
+.\player.o: D:\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h
+.\player.o: D:\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h
+.\player.o: D:\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h
+.\player.o: D:\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h
+.\player.o: D:\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h
+.\player.o: Player\../timer/timer.h
+.\player.o: Player\Player.h
+.\player.o: Player\../GLCD/GLCD.h
